@@ -162,6 +162,5 @@ If you are interested in **data systems, time-series intelligence, IoT analytics
 
 <div align="center">
 
-### Building data systems that are reliable, useful, and intelligent.
-
+### Data is most useful when it can move fast, stay reliable, and explain something important.
 </div>

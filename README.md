@@ -64,6 +64,7 @@ My work usually sits at the intersection of:
 ![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch)
+![OpenAI](https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai)
 
 </div>
 

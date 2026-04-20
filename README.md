@@ -134,7 +134,7 @@ A graph-oriented machine learning workflow built around industrial time-series s
 ## Research and Publications
 
 - **IEEE Access (2023)** — *Enhancing Road Safety Through Accurate Detection of Hazardous Driving Behaviors With Graph Convolutional Recurrent Networks*
-- **Current work** — *Causally-Constrained Probabilistic Forecasting for Time-Series Anomaly Detection*
+- **Current Submission IEEE Access (2026)** — *Causally-Constrained Probabilistic Forecasting for Time-Series Anomaly Detection*
 - Ongoing interests: driver behavior analysis, IoT edge analytics, telematics, anomaly detection, forecasting, and agentic AI systems
 
 ---

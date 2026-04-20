@@ -1,39 +1,54 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=P.khosravinia&fontAlign=50&fontAlignY=38&desc=Data%20AI%20Engineer%20%E2%80%A2%20Time-Series%20and%20IoT%20Systems&descAlign=50&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=p.khosravinia&fontAlign=50&fontAlignY=38&desc=Data%20%2F%20AI%20Engineer%20%E2%80%A2%20Time-Series%20and%20IoT%20Systems&descAlign=50&descAlignY=60" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&center=true&vCenter=true&width=900&lines=From+noisy+sensor+streams+to+useful+decisions.;Building+batch+%26+real-time+data+pipelines.;Working+on+forecasting%2C+anomaly+detection%2C+and+connected+systems." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=980&lines=Building+batch+and+real-time+data+systems.;Turning+sensor+streams+into+useful+decisions.;Working+on+anomaly+detection%2C+forecasting%2C+and+agentic+AI+workflows." alt="Typing SVG" />
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-p--khn-111?style=for-the-badge&logo=github)](https://github.com/p-khn)
-![Porto](https://img.shields.io/badge/Based%20in-Porto%2C%20Portugal-111?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Data%20Engineering%20%7C%20AI%20Research-111?style=for-the-badge)
+![Location](https://img.shields.io/badge/Based%20in-Porto%2C%20Portugal-111?style=for-the-badge)
+![Role](https://img.shields.io/badge/Role-Data%20%2F%20AI%20Engineer-111?style=for-the-badge)
 
 </div>
 
 ---
 
-## ⚡ About Me
+## About Me
+
 ```text
-I build systems that move data, detect patterns, and turn complex signals into practical insight.
+I build systems that move data, detect patterns, and help people make better decisions.
 ```
 
-I’m a **Data AI Engineer** with experience across **telematics, IoT, stream processing, forecasting, anomaly detection, and production-oriented ML workflows**.
+I am a **Data / AI Engineer** working across **data engineering, machine learning, time-series analytics, IoT systems, and AI automation**.
 
-My work usually lives at the intersection of:
-- **data pipelines** → ingesting, validating, enriching, and serving data
-- **intelligent systems** → anomaly detection, forecasting, driver behavior analytics
-- **real-world deployment** → APIs, Dockerized services, cloud tooling, monitoring, and scalable data flows
+My work usually sits at the intersection of:
 
-Currently:
-- 🎓 PhD in **Computer Science** at **Universidade do Porto**
-- 🔬 Researching **time-series anomaly detection** and **causally-constrained probabilistic forecasting**
-- 🚗 Interested in **connected systems, telematics, IoT analytics, and real-time decision systems**
+- **Data pipelines** — batch and real-time ingestion, transformation, validation, and serving
+- **Intelligent systems** — anomaly detection, forecasting, driver behavior analytics, and predictive modeling
+- **Agentic AI** — multi-agent AI systems, LLM-powered workflows, tool orchestration, and automation for operational decision-making
+- **Production delivery** — APIs, Dockerized services, cloud tooling, monitoring, and scalable backend workflows
+
+### Current Focus
+
+- PhD research in **Computer Science** at **Universidade do Porto**
+- **Time-series anomaly detection** and **probabilistic forecasting**
+- **Multi-agent AI systems** for workflow support, reporting, and decision assistance
+- Connected systems across **telematics, IoT, and data-intensive applications**
 
 ---
 
-## 🧰 Toolbox
+## Core Areas
+
+- **Data Engineering:** ETL and ELT, batch pipelines, real-time pipelines, stream processing, data quality, workflow automation
+- **AI Engineering:** LLM applications, multi-agent systems, agent orchestration, AI-assisted reporting, production ML workflows
+- **Machine Learning:** anomaly detection, forecasting, time-series analysis, graph-based learning, predictive modeling
+- **Systems and Platforms:** Docker, AWS services, APIs, backend services, monitoring, cloud-native workflows
+
+---
+
+## Toolbox
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
@@ -54,7 +69,8 @@ Currently:
 
 ---
 
-## 🌌 Selected Work
+## Selected Work
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -62,19 +78,19 @@ Currently:
 ### [CGT-V1](https://github.com/p-khn/CGT-V1)
 **Causally-Constrained Probabilistic Forecasting for Time-Series Anomaly Detection**
 
-Research codebase for multivariate forecasting and anomaly detection using **causal priors**, **transformer forecasting**, **negative log-likelihood scoring**, and **SPOT-based thresholding**.
+Research-oriented work on multivariate forecasting and anomaly detection using causal priors, probabilistic scoring, and thresholding strategies.
 
-**Keywords:** time-series, anomaly detection, causal modeling, forecasting
+**Focus:** time-series, anomaly detection, forecasting, causal structure
 
 </td>
 <td width="50%" valign="top">
 
 ### [MyTel](https://github.com/p-khn/MyTel)
-**Fleet Telemetry Platform**
+**Fleet Telemetry and Data Platform**
 
-A telemetry-focused data platform built around **vehicle data ingestion**, **processing pipelines**, and **analytics-ready services** for connected mobility use cases.
+A telemetry-oriented project centered on vehicle data ingestion, processing pipelines, and analytics-ready services for connected mobility use cases.
 
-**Keywords:** telemetry, data pipelines, APIs, fleet analytics
+**Focus:** telemetry, data pipelines, APIs, fleet analytics
 
 </td>
 </tr>
@@ -82,21 +98,21 @@ A telemetry-focused data platform built around **vehicle data ingestion**, **pro
 <td width="50%" valign="top">
 
 ### [stock-etl-nlp](https://github.com/p-khn/stock-etl-nlp)
-**Stock ETL + NLP Pipeline**
+**ETL and NLP Workflow**
 
-A Python-based pipeline combining **market data ETL**, **Dockerized workflows**, **SQL**, and **text processing** for analysis-ready financial datasets.
+A Python-based pipeline combining market data ETL, Dockerized processing, SQL workflows, and text analysis for structured and unstructured data.
 
-**Keywords:** ETL, NLP, Docker, structured + unstructured data
+**Focus:** ETL, NLP, Docker, analytics pipelines
 
 </td>
 <td width="50%" valign="top">
 
 ### [Tabular-to-Graph](https://github.com/p-khn/Tabular-to-Graph)
-**Tabular-to-Graph learning workflow**
+**Graph-Based Modeling Workflow**
 
-A graph-oriented project built on the **NASA turbofan degradation dataset**, reflecting your interest in **predictive modeling**, **industrial signals**, and **graph-based learning**.
+A graph-oriented machine learning workflow built around industrial time-series style data and predictive modeling ideas.
 
-**Keywords:** graph learning, prognostics, predictive maintenance
+**Focus:** graph learning, predictive maintenance, ML workflows
 
 </td>
 </tr>
@@ -104,14 +120,26 @@ A graph-oriented project built on the **NASA turbofan degradation dataset**, ref
 
 ---
 
-## 🧪 Research, Papers & Themes
-- 📘 **IEEE Access (2023):** *Enhancing Road Safety Through Accurate Detection of Hazardous Driving Behaviors With Graph Convolutional Recurrent Networks*
-- 📝 **Current work:** *Causally-Constrained Probabilistic Forecasting for Time-Series Anomaly Detection*
-- 🧭 Recurring themes in my work: **driver behavior analysis**, **IoT edge analytics**, **time-series forecasting**, **anomaly detection**, and **production-ready data systems**
+## What I Build
+
+- Data platforms that collect, transform, and serve operational data
+- Real-time and near-real-time pipelines for connected devices and sensor streams
+- Forecasting and anomaly detection systems for time-series applications
+- APIs and backend services for analytics products
+- Multi-agent AI systems that coordinate tools, summarize updates, surface risks, and support decision workflows
 
 ---
 
-## 📈 GitHub Snapshot
+## Research and Publications
+
+- **IEEE Access (2023)** — *Enhancing Road Safety Through Accurate Detection of Hazardous Driving Behaviors With Graph Convolutional Recurrent Networks*
+- **Current work** — *Causally-Constrained Probabilistic Forecasting for Time-Series Anomaly Detection*
+- Ongoing interests: driver behavior analysis, IoT edge analytics, telematics, anomaly detection, forecasting, and agentic AI systems
+
+---
+
+## GitHub Snapshot
+
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=p-khn&show_icons=true&hide_border=true&rank_icon=github" />
@@ -125,18 +153,14 @@ A graph-oriented project built on the **NASA turbofan degradation dataset**, ref
 
 ---
 
-## 🛰️ What I Like Building
-- Real-time and batch data pipelines
-- Telematics and connected-device analytics
-- Forecasting and anomaly detection systems
-- ML-backed APIs and analytics services
-- Research prototypes that can survive outside the lab
+## Connect
+
+If you are interested in **data systems, time-series intelligence, IoT analytics, or AI automation**, feel free to connect through GitHub.
 
 ---
 
 <div align="center">
 
-### "Data is most useful when it can move fast, stay reliable, and explain something important."
+### Building data systems that are reliable, useful, and intelligent.
 
 </div>
-

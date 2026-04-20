@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=P.%20Khosravinia&fontAlign=50&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20AI%20Researcher%20%E2%80%A2%20Time-Series%20IoT%20Systems&descAlign=50&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=p.khosravinia&fontAlign=50&fontAlignY=38&desc=Data%20AI%20Engineer%20%E2%80%A2%20Time-Series%20and%20IoT%20Systems&descAlign=50&descAlignY=60" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&center=true&vCenter=true&width=900&lines=From+noisy+sensor+streams+to+useful+decisions.;Building+batch+%26+real-time+data+pipelines.;Working+on+forecasting%2C+anomaly+detection%2C+and+connected+systems." alt="Typing SVG" />
 
@@ -19,7 +19,7 @@
 I build systems that move data, detect patterns, and turn complex signals into practical insight.
 ```
 
-I’m a **Data / AI Engineer** with experience across **telematics, IoT, stream processing, forecasting, anomaly detection, and production-oriented ML workflows**.
+I’m a **Data AI Engineer** with experience across **telematics, IoT, stream processing, forecasting, anomaly detection, and production-oriented ML workflows**.
 
 My work usually lives at the intersection of:
 - **data pipelines** → ingesting, validating, enriching, and serving data
@@ -106,7 +106,7 @@ A graph-oriented project built on the **NASA turbofan degradation dataset**, ref
 
 ## 🧪 Research, Papers & Themes
 - 📘 **IEEE Access (2023):** *Enhancing Road Safety Through Accurate Detection of Hazardous Driving Behaviors With Graph Convolutional Recurrent Networks*
-- 📝 **Current Submission IEEE Access (2026):** *Causally-Constrained Probabilistic Forecasting for Time-Series Anomaly Detection*
+- 📝 **Current work:** *Causally-Constrained Probabilistic Forecasting for Time-Series Anomaly Detection*
 - 🧭 Recurring themes in my work: **driver behavior analysis**, **IoT edge analytics**, **time-series forecasting**, **anomaly detection**, and **production-ready data systems**
 
 ---

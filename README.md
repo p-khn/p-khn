@@ -6,7 +6,7 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-p--khn-111?style=for-the-badge&logo=github)](https://github.com/p-khn)
+
 ![Location](https://img.shields.io/badge/Based%20in-Porto%2C%20Portugal-111?style=for-the-badge)
 ![Role](https://img.shields.io/badge/Role-Data%20%2F%20AI%20Engineer-111?style=for-the-badge)
 

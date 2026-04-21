@@ -51,23 +51,22 @@ My work usually sits at the intersection of:
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Bash](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnu-bash)
-![Kafka](https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka)
-![Spark](https://img.shields.io/badge/Spark-000?style=for-the-badge&logo=apachespark)
-![PySpark](https://img.shields.io/badge/PySpark-000?style=for-the-badge&logo=apachespark)
-![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch)
-![OpenAI](https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai)
+[![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)](https://www.python.org/)
+[![Bash](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnu-bash)](https://www.gnu.org/software/bash/)
+[![Kafka](https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka)](https://kafka.apache.org/)
+[![Spark](https://img.shields.io/badge/Spark-000?style=for-the-badge&logo=apachespark)](https://spark.apache.org/)
+[![PySpark](https://img.shields.io/badge/PySpark-000?style=for-the-badge&logo=apachespark)](https://spark.apache.org/docs/latest/api/python/)
+[![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws)](https://aws.amazon.com/)
+[![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes)](https://kubernetes.io/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
+[![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis)](https://redis.io/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch)](https://pytorch.org/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai)](https://openai.com/)
 
 </div>
-
 ---
 
 ## Selected Work

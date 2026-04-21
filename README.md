@@ -2,6 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=P.khosravinia&fontAlign=50&fontAlignY=38&desc=Data%20%2F%20AI%20Engineer%20%E2%80%A2%20Time-Series%20and%20IoT%20Systems&descAlign=50&descAlignY=60" width="100%" />
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=p.khosravinia&fontAlign=50&fontAlignY=38&desc=Data%20%2F%20AI%20Engineer%20%E2%80%A2%20Time-Series%20and%20IoT%20Systems&descAlign=50&descAlignY=60" width="100%" />
+
+</div>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=980&lines=Building+batch+and+real-time+data+systems.;Turning+sensor+streams+into+useful+decisions.;Working+on+anomaly+detection%2C+forecasting%2C+and+agentic+AI+workflows." alt="Typing SVG" />
 
 <br/>

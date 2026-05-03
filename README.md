@@ -151,6 +151,8 @@ A graph-oriented machine learning workflow built around industrial time-series s
 <img src="https://streak-stats.demolab.com?user=p-khn&hide_border=true" />
 </div>
 
+[![OpenAI](https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai)](https://openai.com/)
+
 </div>
 
 ---

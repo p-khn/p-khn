@@ -152,14 +152,3 @@ A graph-oriented machine learning workflow built around industrial time-series s
 </div>
 
 ---
-
-## Connect
-
-If you are interested in **data systems, time-series intelligence, IoT analytics, or AI automation**, feel free to connect through GitHub.
-
----
-
-<div align="center">
-
-### Data is most useful when it can move fast, stay reliable, and explain something important.
-</div>

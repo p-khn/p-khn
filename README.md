@@ -142,12 +142,30 @@ A graph-oriented machine learning workflow built around industrial time-series s
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=p-khn&show_icons=true&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-khn&layout=compact&hide_border=true" />
+  <!--
+  <img
+    height="170"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=p-khn&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github"
+  />
+  -->
+
+  <img
+    height="170"
+    alt="Most Used Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-khn&amp;layout=compact&amp;hide_border=true"
+  />
 
 </div>
+
+<br/>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=p-khn&hide_border=true" />
-</div>
 
+  <img
+    height="170"
+    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com/?user=p-khn&amp;hide_border=true"
+  />
+
+</div>

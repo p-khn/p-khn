@@ -144,7 +144,7 @@ A graph-oriented machine learning workflow built around industrial time-series s
   <img
     height="170"
     alt="Most Used Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=p-khn&layout=compact&hide_border=true&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-khn&layout=compact&hide_border=true"
   />
 </p>
 
@@ -154,6 +154,6 @@ A graph-oriented machine learning workflow built around industrial time-series s
   <img
     height="170"
     alt="GitHub Streak"
-    src="https://streak-stats.demolab.com?user=p-khn&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=p-khn&hide_border=true&type=svg"
   />
 </p>
